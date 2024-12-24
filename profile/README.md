@@ -5,7 +5,9 @@
 
 <div align="center">
 
-![discord server banner](https://github.com/user-attachments/assets/f0961f22-afd3-47e2-874a-6c7a42d32ff6)
+![discord server banner round](https://github.com/user-attachments/assets/657c17b3-1b89-409e-8539-6a93628a6ed4)
+
+
 
 
 
