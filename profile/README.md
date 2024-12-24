@@ -3,11 +3,14 @@
 
 <h1 align="center">https://discord.gg/AIMr</h1>
 
+<div align="center">
 
-![AIMr](https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/KREk0tS.gif)
+![aimr discord bot banner](https://github.com/user-attachments/assets/1da6dcc1-7108-4721-8fc8-5ee26408e006)
+
+
 <p align="center">AIMr is an ai aimbot written in python.</p>
 
-<div align="center">
+
   
 [![discord server](https://dcbadge.vercel.app/api/server/AIMr)](https://discord.gg/AIMr)
 
