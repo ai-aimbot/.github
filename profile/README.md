@@ -1,7 +1,7 @@
 > [!WARNING]
 > We are not responsible if you get banned
 
-<h1 align="center">https://discord.gg/AIMr</h1>
+<h1 align="center">https://aimr.dev/discord</h1>
 
 <div align="center">
 
